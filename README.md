@@ -12,11 +12,9 @@
 </p>
 
 <h3>Abput me</h3>
-<p>
-  🌱 I'm a 2024 student at Soongsil University, majoring in Computer Science.
-  💬 [Naver Blog](https://blog.naver.com/shark-with-blue)
-  ⚡ [velog](https://velog.io/@eunseo_song/posts)
-</p>
+🌱 I'm a 2024 student at Soongsil University, majoring in Computer Science.
+💬 [Naver Blog](https://blog.naver.com/shark-with-blue)
+⚡ [velog](https://velog.io/@eunseo_song/posts)
 
 <!--
 **eunseo9311/eunseo9311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
