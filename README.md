@@ -11,10 +11,11 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h3>Abput me</h3>
-🌱 I'm a 2024 student at Soongsil University, majoring in Computer Science.
-💬 [Naver Blog](https://blog.naver.com/shark-with-blue)
-⚡ [velog](https://velog.io/@eunseo_song/posts)
+<h3>About me</h3>
+
+🌱 I'm a 2024 student at Soongsil University, majoring in Computer Science.  
+💬 [Naver Blog](https://blog.naver.com/shark-with-blue)  
+⚡ [Velog](https://velog.io/@eunseo_song/posts)
 
 <!--
 **eunseo9311/eunseo9311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
