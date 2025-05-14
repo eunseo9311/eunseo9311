@@ -17,6 +17,8 @@
 💬 [Naver Blog](https://blog.naver.com/shark-with-blue)  
 ⚡ [Velog](https://velog.io/@eunseo_song/posts)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunseo9311&layout=compact)
+
 <!--
 **eunseo9311/eunseo9311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
