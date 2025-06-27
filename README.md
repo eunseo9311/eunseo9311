@@ -18,8 +18,6 @@
 ⚡ [Velog](https://velog.io/@eunseo_song/posts)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunseo9311&layout=compact)
-
-![Eunseo's Github stats](https://github-readme-stats.vercel.app/api?username=eunseo9311&show_icons=true&theme=radical)
 <!--
 **eunseo9311/eunseo9311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
