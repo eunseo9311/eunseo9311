@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eunseo9311)
 <h3>About me</h3>
 
 🌱 I'm a 2024 student at Soongsil University, majoring in Computer Science.  
