@@ -11,10 +11,9 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  
-  
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eunseo9311)
 <h3>About me</h3>
 
 🌱 I'm a 2024 student at Soongsil University, majoring in Computer Science.  
