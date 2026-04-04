@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
+https://commitcat-api.fly.dev/auth/github
 
 <h3>About me</h3>
 
