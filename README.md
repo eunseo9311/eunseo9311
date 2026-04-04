@@ -3,7 +3,7 @@
 ---
 
 ### 🐱 CommitCat
-[![CommitCat](https://commitcat-api.fly.dev/badge/eunseo9311?v=11)](https://github.com/eunseo9311/commit-cat)
+[![CommitCat](https://commitcat-api.fly.dev/badge/eunseo9311?v=12)](https://github.com/eunseo9311/commit-cat)
 
 ---
 
