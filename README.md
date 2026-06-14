@@ -14,14 +14,18 @@ Evaluated adversarial robustness of Claude Sonnet vs GPT-4o across 4 experiment 
 
 ---
 
-### 🛠 Open Source Contributions
-
+- **[InsForge](https://github.com/InsForge/InsForge)** — Agent-native backend platform (YC P26). 3 merged PRs: empty string stripping consistency ([#1364](https://github.com/InsForge/InsForge/pull/1364)), database records fix ([#1444](https://github.com/InsForge/InsForge/pull/1444)), follow-up improvement ([#1457](https://github.com/InsForge/InsForge/pull/1457)). Closed user-reported issue [#1429](https://github.com/InsForge/InsForge/issues/1429).
+  
+- **[Hugging Face / tokenizers](https://github.com/huggingface/tokenizers)** (★10.8k) — Fast State-of-the-Art Tokenizers in Rust. 1 merged PR: return type annotation fix ([#2074](https://github.com/huggingface/tokenizers/pull/2074))
+  
+- **[HelixDB](https://github.com/HelixDB/helix-db)** — Graph-vector database for AI agent memory. 1 merged PR: TypeScript SDK package name fix ([#923](https://github.com/HelixDB/helix-db/pull/923))
+  
 - **[Verilator](https://github.com/verilator/verilator)** (★3.5k) — Industry-standard SystemVerilog simulator. 3 merged PRs: build fix on Apple clang ([#7327](https://github.com/verilator/verilator/pull/7327)), regression test ([#7328](https://github.com/verilator/verilator/pull/7328)), diagnostic improvements ([#7329](https://github.com/verilator/verilator/pull/7329))
-
+  
 - **[GPGPU-Sim](https://github.com/gpgpu-sim/gpgpu-sim_distribution)** (★1.6k) — Cycle-accurate GPU simulator. 3 merged PRs: correctness bug fix ([#338](https://github.com/gpgpu-sim/gpgpu-sim_distribution/pull/338)), perf optimization ([#339](https://github.com/gpgpu-sim/gpgpu-sim_distribution/pull/339)), -186 lines refactoring ([#340](https://github.com/gpgpu-sim/gpgpu-sim_distribution/pull/340))
-
+  
 - **[Spring Initializr](https://github.com/spring-io/initializr)** (★3.7k) — Official Spring project behind start.spring.io. Modernized 31 files with idiomatic Java ([#1747](https://github.com/spring-io/initializr/pull/1747)). Named contributor in v0.24.0 release notes.
-
+  
 ---
 
 ### 🚀 Projects
