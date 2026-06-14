@@ -14,6 +14,8 @@ Evaluated adversarial robustness of Claude Sonnet vs GPT-4o across 4 experiment 
 
 ---
 
+### 🛠 Open Source Contributions
+
 - **[InsForge](https://github.com/InsForge/InsForge)** — Agent-native backend platform (YC P26). 3 merged PRs: empty string stripping consistency ([#1364](https://github.com/InsForge/InsForge/pull/1364)), database records fix ([#1444](https://github.com/InsForge/InsForge/pull/1444)), follow-up improvement ([#1457](https://github.com/InsForge/InsForge/pull/1457)). Closed user-reported issue [#1429](https://github.com/InsForge/InsForge/issues/1429).
   
 - **[Hugging Face / tokenizers](https://github.com/huggingface/tokenizers)** (★10.8k) — Fast State-of-the-Art Tokenizers in Rust. 1 merged PR: return type annotation fix ([#2074](https://github.com/huggingface/tokenizers/pull/2074))
