@@ -49,7 +49,3 @@ Evaluated adversarial robustness of Claude Sonnet vs GPT-4o across 4 experiment 
 **AI:** Python · Anthropic/OpenAI API · Adversarial ML
 
 ---
-
-### 📫 Links
-
-[Blog (Velog)](https://velog.io/@eunseo_song/posts) · [LinkedIn](https://linkedin.com/in/eunseo-song-65543a393)
