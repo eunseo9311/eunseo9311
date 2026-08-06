@@ -1,6 +1,3 @@
-아래 전체를 그대로 복사해 GitHub 프로필 `README.md`에 붙여넣으면 됩니다.
-
-```md
 ## Hi, I'm Eunseo Song 👋
 
 CS undergraduate and product-minded open-source engineer working across **AI products, developer experience, and systems infrastructure**.
@@ -52,4 +49,3 @@ Evaluated the adversarial robustness of Claude Sonnet and GPT-4o across four exp
 - **Frontend:** TypeScript · React · JavaScript
 - **Cloud:** AWS EC2 · RDS · S3 · CloudFront · Route53 · CloudWatch
 - **AI:** Python · Anthropic API · OpenAI API · Adversarial ML
-```
