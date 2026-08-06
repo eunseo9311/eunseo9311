@@ -4,7 +4,7 @@ CS undergraduate and product-minded open-source engineer working across **AI pro
 
 I notice friction, trace it to the underlying system, and keep building until the solution reaches real users.
 
-[**Email**](mailto:eunseo031020@gmail.com) · [**Portfolio**](https://eunseo-profile-inky.vercel.app/) · [**LinkedIn**](https://linkedin.com/in/eunseo-song-65543a393) · [**Blog**](https://velog.io/@eunseo_song/posts)
+[**Email**](mailto:eunseo031020@gmail.com) eunseo031020@gmail.com · [**Portfolio**](https://eunseo-profile-inky.vercel.app/) · [**LinkedIn**](https://linkedin.com/in/eunseo-song-65543a393) · [**Blog**](https://velog.io/@eunseo_song/posts)
 
 ---
 
